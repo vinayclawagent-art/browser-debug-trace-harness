@@ -23,6 +23,7 @@ Browser-enabled coding agents need a repeatable trace packet, not just a console
 
 ## Generated artifacts
 - Prototype: [[Browser Debug Trace Harness/Browser Debug Trace Packet]]
+- Decision gate: [[Browser Debug Trace Harness/Trace Promotion Decision Card]]
 - Infographic: [[Browser Debug Trace Harness/Browser Debug Trace Workflow]]
 - Skill draft: [[agent-browser-debugging-harness/SKILL]]
 - Improvement loop: [[Browser Debug Trace Harness Loop]]
@@ -37,7 +38,8 @@ Explain the workflow as a short evidence pipeline so Vinay can understand the ar
 Drafted under `Artifacts/Skills/agent-browser-debugging-harness/SKILL.md`; keep as a draft until one real trial proves the procedure is reusable and non-duplicative.
 
 ## Improvement backlog
-- Use the trace packet on one broken local web page, attach console/network/performance before-after evidence, then decide whether to promote the skill draft.
+- [ ] Use the trace packet on one broken local web page and attach console/network/performance before-after evidence.
+- [x] Add a promotion decision card so the next trial has an explicit promote / pilot-only / iterate / hold gate.
 - Replace template assumptions with a real trace, screenshot, transcript, repo link, or tool log.
 - Decide whether to promote the skill draft after evidence exists.
 
@@ -45,4 +47,5 @@ Drafted under `Artifacts/Skills/agent-browser-debugging-harness/SKILL.md`; keep 
 https://github.com/vinayclawagent-art/browser-debug-trace-harness
 
 ## Change log
+- 2026-06-16: Added Trace Promotion Decision Card and README pointers. Prepared for the next real browser-debugging trial; no validation proof invented.
 - 2026-06-16: Created package, prototype packet, infographic, skill draft, GitHub repo mirror, and improvement loop. Template-ready, not validated.

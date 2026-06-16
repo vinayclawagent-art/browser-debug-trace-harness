@@ -12,7 +12,10 @@ Inspired by: https://x.com/OpenAIDevs/status/2065226355495895521
 - `improvement-loop/` — recurring improvement loop mirror.
 
 ## Status
-Template-ready, not validated. Use the prototype on a real task before promoting the workflow.
+Template-ready, not validated. Fill the trace packet and promotion card on a real broken page before promoting the skill draft or package claims.
 
 ## Next focus
 Use the trace packet on one broken local web page, attach console/network/performance before-after evidence, then decide whether to promote the skill draft.
+
+## Latest improvement
+Added prototype/Trace Promotion Decision Card.md so the next browser-debugging trial has a post-packet promote / pilot-only / iterate / hold gate.
