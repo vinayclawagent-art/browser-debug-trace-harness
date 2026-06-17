@@ -6,16 +6,16 @@ Inspired by: https://x.com/OpenAIDevs/status/2065226355495895521
 
 ## What it contains
 - `artifact-package/README.md` — Obsidian package mirror.
-- `prototype/` — fillable first-trial packet.
+- `prototype/` — fillable first-trial packet, promotion card, and post-trial debrief template.
 - `infographic/` — workflow explanation.
 - `skill-draft/` — unpromoted Hermes skill draft.
 - `improvement-loop/` — recurring improvement loop mirror.
 
 ## Status
-Template-ready, not validated. Fill the trace packet and promotion card on a real broken page before promoting the skill draft or package claims.
+Template-ready, not validated. Fill the trace packet, promotion card, and post-trial debug debrief on a real broken page before promoting the skill draft or package claims.
 
 ## Next focus
-Use the trace packet on one broken local web page, attach console/network/performance before-after evidence, then fill prototype/Trace Promotion Decision Card.md before promoting the skill draft.
+Use the trace packet on one broken local web page, attach console/network/performance before-after evidence, fill prototype/Trace Promotion Decision Card.md, then complete prototype/Post-Trial Debug Debrief Template.md before patching README/prototype/skill claims.
 
 ## Latest improvement
-Added prototype/Trace Promotion Decision Card.md so the next browser-debugging trial has a post-packet promote / pilot-only / iterate / hold gate.
+Added prototype/Post-Trial Debug Debrief Template.md so the next browser-debugging trial has an evidence-to-patch gate after the promotion decision card.
