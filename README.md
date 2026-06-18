@@ -19,3 +19,5 @@ Use the trace packet on one broken local web page, attach console/network/perfor
 
 ## Latest improvement
 Added prototype/Post-Trial Debug Debrief Template.md so the next browser-debugging trial has an evidence-to-patch gate after the promotion decision card.
+
+Latest improvement: 2026-06-18 — added Debug Trace Evidence Index.md so future proof links are captured before validation claims change.

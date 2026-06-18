@@ -19,3 +19,5 @@ A small, fillable artifact that turns the X signal into operator evidence instea
 - Use the debrief template to convert trace evidence into narrow patch decisions instead of broad validation claims.
 - Convert the result into a before/after screenshot or concise newsletter example.
 - Promote the skill draft only after repeated success.
+
+Latest improvement: 2026-06-18 — added `Debug Trace Evidence Index.md` so future proof links are captured before promotion/debrief claims change.

@@ -38,6 +38,8 @@ Explain the workflow as a short evidence pipeline so Vinay can understand the ar
 ## Skill candidate
 Drafted under `Artifacts/Skills/agent-browser-debugging-harness/SKILL.md`; keep as a draft until one real trial proves the procedure is reusable and non-duplicative.
 
+- Evidence index: [[Browser Debug Trace Harness/Debug Trace Evidence Index]]
+
 ## Improvement backlog
 - [ ] Use the trace packet on one broken local web page and attach console/network/performance before-after evidence.
 - [x] Add a promotion decision card so the next trial has an explicit promote / pilot-only / iterate / hold gate.
@@ -48,7 +50,11 @@ Drafted under `Artifacts/Skills/agent-browser-debugging-harness/SKILL.md`; keep 
 ## GitHub repo
 https://github.com/vinayclawagent-art/browser-debug-trace-harness
 
+- [x] Add a trial evidence index so future proof links are captured before validation claims change.
+- [ ] Fill [[Browser Debug Trace Harness/Debug Trace Evidence Index]] during the next real trial.
+
 ## Change log
 - 2026-06-16: Added Post-Trial Debug Debrief Template and README pointers. Prepared for post-trial evidence-to-patch decisions; no validation proof invented.
 - 2026-06-16: Added Trace Promotion Decision Card and README pointers. Prepared for the next real browser-debugging trial; no validation proof invented.
 - 2026-06-16: Created package, prototype packet, infographic, skill draft, GitHub repo mirror, and improvement loop. Template-ready, not validated.
+- 2026-06-18: Added trial evidence index; ready to collect debug trace proof links before validation decisions.

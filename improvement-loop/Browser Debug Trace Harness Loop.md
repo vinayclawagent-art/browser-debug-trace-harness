@@ -5,8 +5,8 @@ source_note: "[[Codex Browser Developer Mode for Agent Debugging]]"
 package: "[[Browser Debug Trace Harness]]"
 github_repo: "https://github.com/vinayclawagent-art/browser-debug-trace-harness"
 cadence: nightly
-last_improved: 2026-06-16
-next_focus: "Use the trace packet on one broken local web page, attach console/network/performance before-after evidence, fill the Trace Promotion Decision Card, then complete the Post-Trial Debug Debrief Template before patching README/prototype/skill claims."
+last_improved: 2026-06-18
+next_focus: "Run the next real trial, fill [[Browser Debug Trace Harness/Debug Trace Evidence Index]] with exact proof links, then complete the promotion/debrief gates before patching README/prototype/skill claims."
 tags: [improvement-loop, x-artifact-factory]
 ---
 
@@ -32,3 +32,4 @@ Use the trace packet on one broken local web page, attach console/network/perfor
 - 2026-06-16: Added Post-Trial Debug Debrief Template as the evidence-to-patch gate; prepared for next real trial, not validated.
 - 2026-06-16: Added Trace Promotion Decision Card as the post-packet gate; prepared for next real trial, not validated.
 - 2026-06-16: Created loop and first artifact packet; prepared, not validated.
+- 2026-06-18: Added trial evidence index; prepared to capture debug trace proof links, evidence still pending.
